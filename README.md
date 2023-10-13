@@ -1,2 +1,2 @@
 # maua37.github.io
-Personal website as a web developer
+Portfolio website as a web developer
